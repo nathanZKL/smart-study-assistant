@@ -1,0 +1,15 @@
+# Backend dependencies 
+
+
+# dependencies to read uploads (pdfs? txt files?)
+
+
+# UI dependencies
+streamlit==1.45.1
+
+
+# LLM ?
+
+
+# Other (will most likely be using)
+pandas==2.3.1
