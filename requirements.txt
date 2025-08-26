@@ -1,15 +1,12 @@
-# Backend dependencies 
-
-
 # dependencies to read uploads (pdfs? txt files?)
-PyPDF2==3.1.1
+PyPDF2
 
 # UI dependencies
-streamlit==1.45.1
-
+streamlit
 
 # LLM ?
-gpt4all==1.0.2
+transformers
+torch
 
 # Other (will most likely be using)
-pandas==2.3.1
+pandas
